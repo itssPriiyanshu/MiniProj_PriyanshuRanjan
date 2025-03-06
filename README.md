@@ -17,7 +17,7 @@ This project focuses on real-time hand gesture recognition, integrating both sta
 4) Fire (make a gun with your fingers and shoot)<br>
 
 
-Static gestures:
+## Static gestures:
 1) Thumbs Up<br>
 2) Open Palm<br>
 3) Closed Palm<br>
