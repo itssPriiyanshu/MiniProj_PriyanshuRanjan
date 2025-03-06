@@ -10,6 +10,21 @@ This project focuses on real-time hand gesture recognition, integrating both sta
 - **Dynamic Gesture Recognition**: Recognizes gestures involving motion using sequential data.
 - **Real-time Processing**: Utilizes MediaPipe for hand tracking and runs inference on live video input.
 
+## Dynamic gestures :<br>
+1) No (moving index finger left-right)<br>
+2) Wave (moving hand left-right)<br>
+3) Yoyo<br>
+4) Fire (make a gun with your fingers and shoot)<br>
+
+
+Static gestures:
+1) Thumbs Up<br>
+2) Open Palm<br>
+3) Closed Palm<br>
+4) Peace<br>
+5) Fcuk You(middle finger)<br>
+<br>
+
 ## Project Structure
 
 ```
@@ -54,5 +69,6 @@ cd MiniProj_PriyanshuRanjan
 ## Future Improvements
 
 - Improve model accuracy with a larger dataset.
+- More gestures can be added.
 - Optimize inference for better real-time performance.
 
